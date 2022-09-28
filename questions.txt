@@ -1,0 +1,5 @@
+extract last: undefined
+
+closures
+
+filter name with name arg
